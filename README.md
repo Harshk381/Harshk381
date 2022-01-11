@@ -8,9 +8,9 @@ Website development and programming are two of my passions.
 Vist my **[Portfolio](https://harshk381.github.io/Portfolio.github.io/)**
 
 
-[![Linkedin: Harsh](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/harsh-khandelwal-b67ba11b9)
-[![GitHub Harsh](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/Harshk381)
-![Twitter Follow](https://img.shields.io/twitter/follow/Harsh_k3?style=social)
+[![Linkedin: Harsh](https://img.shields.io/badge/-Harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-khandelwal-b67ba11b9)](https://www.linkedin.com/in/harsh-khandelwal-b67ba11b9)
+[![GitHub Harsh](https://img.shields.io/github/followers/Harshk381?label=follow&style=social)](https://github.com/Harshk381)
+![Twitter Follow](https://img.shields.io/twitter/follow/Harsh_k3?style=social).].(https://twitter.com/Harsh_k3)
 
 ---
 
@@ -20,7 +20,7 @@ Vist my **[Portfolio](https://harshk381.github.io/Portfolio.github.io/)**
 - 🤔 I’m looking for Internship
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  ** [Email](131harshkhandelwal@gmail.com) , [Instagram](https://instagram.com/harsh.k3) , [Twitter](https://twitter.com/Harsh_k3) **
+  ** [Email](https://mail.google.com/mail/131harshkhandelwal@gmail.com) , [Instagram](https://instagram.com/harsh.k3) , [Twitter](https://twitter.com/Harsh_k3) **
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
 
