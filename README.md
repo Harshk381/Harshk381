@@ -20,7 +20,7 @@ Vist my **[Portfolio](https://harshk381.github.io/Portfolio.github.io/)**
 - 🤔 I’m looking for Internship
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Email](https://mail.google.com/mail/131harshkhandelwal@gmail.com) , [Instagram](https://instagram.com/harsh.k3) , [Twitter](https://twitter.com/Harsh_k3)**
+  **[Email](131harshkhandelwal@gmail.com) , [Instagram](https://instagram.com/harsh.k3) , [Twitter](https://twitter.com/Harsh_k3)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshk381&layout=compact&theme=dark&hide_border=true)
 
