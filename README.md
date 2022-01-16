@@ -10,7 +10,7 @@ Vist my **[Portfolio](https://harshk381.github.io/Portfolio.github.io/)**
 
 [![Linkedin: Harsh](https://img.shields.io/badge/-Harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-khandelwal-b67ba11b9)](https://www.linkedin.com/in/harsh-khandelwal-b67ba11b9)
 [![GitHub Harsh](https://img.shields.io/github/followers/Harshk381?label=follow&style=social)](https://github.com/Harshk381)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Harsh_k3?style=social)](https://twitter.com/Harsh_k3)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-blue&logo=instagram&logoColor=blue)](https://instagram.com/harsh.k3) 
 
 ---
 
