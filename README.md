@@ -15,7 +15,7 @@ Vist my **[Portfolio](https://harshk381.github.io/Portfolio.github.io/)**
 ---
 
 - 🔭 I’m currently working as **Web Developer Intern**
-- 🌱 I’m currently learning **React, Angular & Node.js**
+- 🌱 I’m currently learning **JAVA**
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for Internship
 - 💬 Ask me about **Web Development**
